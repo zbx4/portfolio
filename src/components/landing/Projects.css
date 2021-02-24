@@ -1,0 +1,19 @@
+.projectContainer{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin-top: 32px;
+}
+
+.projectsAnchor{
+    display: block;
+    position: absolute;
+    top: -60px;
+    visibility: hidden;
+}
+
+.projectsTitle{
+    width: 100%;
+    text-align: center;
+    color: #474747;
+}
